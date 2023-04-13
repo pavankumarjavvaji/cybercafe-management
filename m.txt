@@ -1,0 +1,9 @@
+Angel,123,Sweety,angel@gmail.com,1234567,2
+Made_Savage,321,Pavan,angel@gmail.com,5645343,3
+Binary_Bark,678,Shaurya,angel@gmail.com,76382848,1
+The_Deal,876,Sahiba,angel@gmail.com,737339801,1
+Fiddle_Pie,543,Raisha,angel@gmail.com,909877676,1
+Raid_Brigade,234,Prio,angel@gmail.com,54532446,2
+Geez_God,782,Tina,angel@gmail.com,087642246,2
+Mindhack_Diva,1234,Mona,angel@gmail.com,112132435,3
+Sugar_Lump,986,Ram,angel@gmail.com,535645765,1ww,ww,aaa,w,w,2
